@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  align-items: center;
+}
+
+body{
+  background-color: rgb(74, 74, 75);
+}
+
+h1{
+  color: whitesmoke;
+}
+h3{
+  color: white;
+}
+button{
+  color: rgb(0, 0, 0);
+  background-color: aquamarine;
+  font-size: 2rem;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 25px;
+}
+
